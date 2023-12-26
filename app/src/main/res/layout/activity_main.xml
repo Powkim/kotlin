@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical">
+ <LinearLayout
+     android:layout_width="match_parent"
+     android:layout_height="100dp">
+<ImageView
+    android:src="@drawable/다운로드"
+    android:layout_width="100dp"
+    android:layout_height="100dp"/>
+    <ImageView
+        android:src="@drawable/c8751fa05a6fcf16ee463b656f09b22b"
+        android:layout_width="100dp"
+        android:layout_height="100dp"/>
+    <ImageView
+        android:src="@drawable/f8cb2e4e16ecf303c93a4c6da8e9e9c2"
+        android:layout_width="100dp"
+        android:layout_height="100dp"/>
+<ImageView
+    android:src="@drawable/c8751fa05a6fcf16ee463b656f09b22b"
+    android:layout_width="100dp"
+    android:layout_height="100dp"/>
+</LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="100dp">
+        <ImageView
+            android:src="@drawable/다운로드"
+            android:layout_width="100dp"
+            android:layout_height="100dp"/>
+        <ImageView
+            android:src="@drawable/c8751fa05a6fcf16ee463b656f09b22b"
+            android:layout_width="100dp"
+            android:layout_height="100dp"/>
+        <ImageView
+            android:src="@drawable/f8cb2e4e16ecf303c93a4c6da8e9e9c2"
+            android:layout_width="100dp"
+            android:layout_height="100dp"/>
+        <ImageView
+            android:src="@drawable/c8751fa05a6fcf16ee463b656f09b22b"
+            android:layout_width="100dp"
+            android:layout_height="100dp"/>
+    </LinearLayout>
+    </LinearLayout>
